@@ -1,16 +1,36 @@
-## Hi there 👋
+## ABOUT ME
 
-<!--
-**kubaplo/kubaplo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jacob and I am from Poland. I am a third-year student of informatics at Silesian University of Technology. I am mostly interested in full-stack web development but I also enjoy creating desktop and mobile applications. I am familiar with multiple programming languages, frameworks, databases, and tools. Some of them are listed below and categorized based on my knowledge level.
 
-Here are some ideas to get you started:
+### Intermediate:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React
+* Node.js (+ Express)
+* Javascript (+ jQuery)
+* Typescript
+* MongoDB
+* MySQL
+* Tailwind CSS
+* SASS/SCSS
+* Python (+ Django)
+
+
+### Basic:
+
+* C++
+* C#
+* Java
+* Machine learning (using Python)
+* Git
+* Figma
+* Nginx
+
+
+## PROJECTS:
+
+I am the author of two websites that were created for businesses in my local area. Both websites are live and available for the general public. The source code of these websites is private but I am allowed to share it and explain it during job interviews as proof of my skills. The websites can be found here:
+
+1. https://specjalistyczna.com.pl - frontend: React/SCSS, backend: Express/MongoDB
+2. https://nadruda.pl - frontend: HTML/CSS/Javascript (+ jQuery), backend: Django
+
+I am also the author of some smaller, open-source projects that are available as public GitHub repositories.
