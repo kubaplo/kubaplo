@@ -5,6 +5,8 @@ My name is Jacob and I am from Poland. I am a third-year student of informatics 
 ### Intermediate:
 
 * React
+* Next.js
+* SolidJS
 * Node.js (+ Express)
 * Javascript (+ jQuery)
 * Typescript
@@ -32,5 +34,8 @@ I am the author of two websites that were created for businesses in my local are
 
 1. https://specjalistyczna.com.pl - frontend: React/SCSS, backend: Express/MongoDB
 2. https://restauracja.nadruda.pl - frontend: HTML/CSS/Javascript (+ jQuery), backend: Django
+
+Currently, I am working on a weather application. I am developing it using Next.js, Typescript, and Tailwind CSS. The source code is public and can be accessed here:
+* https://github.com/kubaplo/OpenWeather-Interface
 
 I am also the author of some smaller, open-source projects that are available as public GitHub repositories.
